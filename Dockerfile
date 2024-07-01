@@ -1,6 +1,5 @@
 FROM alpine
 
-LABEL description="Lorem ipsum dolor sit amet \
-FROM consectetur adipiscing elit"
-
-RUN ls
+LABEL description="The Multiarch Tuning Operator enhances the user experience for administrators of Openshift \
+                   clusters with multi-architecture compute nodes or Site Reliability Engineers willing to migrate \
+                   from single-arch to multi-arch OpenShift"
