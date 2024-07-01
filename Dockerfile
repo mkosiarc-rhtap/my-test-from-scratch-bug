@@ -1,6 +1,4 @@
-FROM registry.access.redhat.com/ubi8/ubi:latest
+FROM alpine
 
 LABEL description="Lorem ipsum dolor sit amet \
   from consectetur adipiscing elit"
-
-RUN ls
